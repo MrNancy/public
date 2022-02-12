@@ -286,6 +286,10 @@ table code {
     white-space: nowrap;
 }
 
+#menu p.links a {
+    display: block;
+}
+
 #breadcrumb {
     background: #333333;
     color: #ffffff;
